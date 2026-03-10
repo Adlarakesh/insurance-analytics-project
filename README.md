@@ -1,172 +1,119 @@
-# Insurance Analytics Project
+# 📊 Insurance Analytics Dashboard
 
-## Project Overview
-This project focuses on analyzing insurance business performance using data analytics techniques.  
-The objective was to build a centralized analytics solution that helps monitor sales performance, evaluate opportunity pipelines, and measure account executive productivity.
+## 📊 Overview
+This project analyzes insurance sales performance, opportunity pipelines, and account executive productivity using data analytics techniques.
 
-Using SQL and Business Intelligence tools, raw insurance data was transformed into meaningful KPIs and interactive dashboards to support data-driven decision making.
+The objective of this project is to build a centralized analytics solution that helps management monitor revenue performance, evaluate pipeline health, and identify business opportunities.
 
----
-
-## Business Problem
-Insurance companies often struggle with:
-
-- Limited visibility into overall sales performance
-- Difficulty tracking revenue targets vs achievements
-- Lack of insights into opportunity pipelines
-- Limited understanding of executive productivity
-- No centralized dashboard for monitoring business growth
-
-This project addresses these challenges using data analytics and visualization.
+The analysis was performed using SQL and Business Intelligence tools, and the results were visualized through interactive dashboards.
 
 ---
 
-## Project Objectives
+# 🔍 Key Highlights
 
-- Track insurance revenue performance using key performance indicators (KPIs)
-- Analyze opportunity pipeline stages and deal distribution
-- Evaluate account executive productivity
-- Enable management to make data-driven decisions
-
----
-
-## Dataset Description
-
-The project uses six datasets representing different business operations.
-
-| Dataset | Description |
-|-------|-------------|
-| Brokerage Table | Policy and revenue data |
-| Fees Table | Additional revenue transactions |
-| Invoice Table | Billing and invoice information |
-| Meeting Table | Executive meeting activities |
-| Opportunity Table | Sales pipeline and opportunity stages |
-| Budget Table | Target values for business activities |
+• Total Opportunities: 49  
+• Open Opportunities: 44  
+• Revenue Analysis: New Business, Cross Sell, Renewal  
+• Executive Productivity Metrics: Meetings & Invoices  
+• Pipeline Stage Analysis for deal progress  
 
 ---
 
-## Tools & Technologies
+# 📈 Visual Insights
 
-- SQL  
-- Microsoft Excel  
-- Power BI  
-- Tableau  
-- Data Visualization  
-- Business Intelligence  
+• Revenue comparison between **New Business, Cross Sell, and Renewal sales**  
+• Opportunity distribution across insurance products  
+• Account executive performance based on meetings and invoices  
+• Sales pipeline stage funnel analysis  
 
 ---
 
-## Key Analysis Performed
+# 🛠 Tools Used
 
-### Revenue Performance Analysis
-Calculated revenue performance across:
-
-- New Business
-- Cross Sell Business
-- Renewal Business
-
-Compared **Target vs Achieved values** to evaluate business growth.
+• SQL  
+• Microsoft Excel / CSV (Data Source)  
+• Power BI  
+• Tableau  
+• Power Query  
+• Data Visualization  
 
 ---
 
-### Opportunity Pipeline Analysis
-
-Analyzed the sales pipeline using:
-
-- Stage Funnel by Revenue
-- Total Opportunities
-- Open Opportunities
-- Opportunity Distribution by Product
-
-This analysis helps understand deal progress and future revenue potential.
-
----
-
-### Executive Productivity Analysis
-
-Measured operational performance using:
-
-- Number of Meetings by Account Executive
-- Number of Invoices by Account Executive
-- Yearly Meeting Trends
-
-This helps identify high performing executives.
-
----
-
-## SQL Analysis
-
-SQL queries were used to calculate important KPIs including:
-
-- Revenue (New / Cross Sell / Renewal)
-- Placement Achievement %
-- Invoice Achievement %
-- Total Opportunities
-- Open Opportunities
-- Stage Funnel Revenue
-
-These queries transformed raw data into meaningful business metrics.
-
----
-
-# Dashboards
-
-## Excel Dashboard
-
-Provides a quick overview of key KPIs and insurance sales performance.
-
-![Excel Dashboard](dashboards/excel_dashboard.png)
-
----
-
-## Project Architecture
-Data Sources → SQL Analysis → KPI Calculation → Dashboard Visualization
-
-## Tableau Dashboard
-
-Analyzes revenue performance, opportunity pipeline, and executive productivity.
-
-![Tableau Dashboard](dashboards/tableau_dashboard.png)
-
----
+# 📊 Dashboards
 
 ## Power BI Dashboard
 
-Provides interactive insights and advanced visualizations for business analysis.
+![Power BI Dashboard](Dashboards/PowerBI_Dashboard.png)
 
-![Power BI Dashboard](dashboards/powerbi_dashboard.png)
-
----
-
-# Key Business Insights
-
-- Identified revenue contribution from **New Business, Cross Sell, and Renewal sales**
-- Highlighted **top performing account executives**
-- Detected **pipeline stages where opportunities are delayed**
-- Identified **products generating the highest opportunities**
+Interactive dashboard for analyzing revenue performance, opportunity pipeline, and executive productivity.
 
 ---
 
-# Business Impact
+## Tableau Dashboard
 
-The analytics dashboards help management to:
+![Tableau Dashboard](Dashboards/Tableau_Dashboard.png)
 
-- Monitor revenue performance
-- Track sales pipeline health
-- Improve executive productivity
-- Identify growth opportunities
+Provides advanced visual analytics for revenue contribution and opportunity distribution.
 
 ---
 
-# Conclusion
+## Excel Dashboard
 
-This project demonstrates how data analytics can help insurance companies transform raw business data into actionable insights.  
+![Excel Dashboard](Dashboards/Excel_Dashboard.png)
 
-By leveraging **SQL, Excel, Tableau, and Power BI**, the solution provides a centralized view of sales performance, opportunity pipelines, and operational productivity.
+Displays KPI overview and insurance sales performance monitoring.
 
 ---
 
-# Author
+# 📊 Key Business Insights
 
-Rakesh  
-Data Analytics Enthusiast
+• Identified revenue contribution from **New Business, Cross Sell, and Renewal segments**  
+
+• Highlighted **top performing account executives**  
+
+• Detected **pipeline stages where opportunities are delayed**  
+
+• Identified products generating the **highest opportunities**  
+
+---
+
+# 🚀 How to Use
+
+1. Clone this repository
+   
+git clone https://github.com/Adlarakesh/insurance-analytics-project.git
+
+2. Open the SQL file to view KPI calculations
+
+3. Explore dashboard screenshots
+
+4. Analyze datasets to understand business insights
+
+---
+
+# 🔮 Future Enhancements
+
+• Add predictive analytics for revenue forecasting  
+
+• Integrate real-time insurance datasets  
+
+• Build automated data pipelines  
+
+• Deploy dashboards using Power BI Service  
+
+---
+
+# 👨‍💻 Author
+
+**Adla Rakesh Reddy**
+
+🔗 LinkedIn: https://www.linkedin.com/in/rakeshadla 
+
+💻 GitHub: https://github.com/Adlarakesh
+
+
+
+
+
+
+
